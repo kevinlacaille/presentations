@@ -1,6 +1,4 @@
-It looks like `pyenv-virtualenv` might not be properly configured in your shell. Let's ensure it's correctly set up.
-
-### Full Setup and Activation Command Sequence
+### Full Setup of virtual environment (optional)
 
 1. **Install pyenv and pyenv-virtualenv**:
    ```sh
@@ -39,7 +37,7 @@ It looks like `pyenv-virtualenv` might not be properly configured in your shell.
    pyenv activate scipy2024-env
    ```
 
-### Install OpenCV
+### Install packages
 
 Once the environment is activated, install OpenCV:
 

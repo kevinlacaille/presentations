@@ -21,7 +21,5 @@ cd scipy2024/
 ```
 
 **Prerequisites**
-- Install: [rasterio](https://pypi.org/project/rasterio) library
-- Download drone imagery: TBD
-
-You may need to move the data from your download directory to the `content` directory, or else modify file paths within the Notebooks as needed.
+- Read the [installation.md](installation.md) for instructions of how to set up the (optional) virtual environment.
+- Install all libraries `pip install -r requirements.txt`
