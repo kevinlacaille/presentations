@@ -1,3 +1,9 @@
+"""
+This script extracts 10 random image URIs from the Vancouver NADIR dataset with altitudes between 78 and 82 meters.
+It then generates a bash script to download the images from the URIs and writes the script to a file in a new batch directory.
+The script also prints instructions on how to execute the bash script to download the images.
+"""
+
 import pandas as pd
 import random
 import os
