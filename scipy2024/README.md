@@ -38,7 +38,7 @@ The tutorial will be a combination of slides and hands-on live coding with real-
    - Cover basic concepts of working with drone imagery, including understanding drone capabilities, image resolution, and data types.
    - Introduce the Python libraries that will be used throughout the workshop, such as rasterio for raster data manipulation, numpy for numerical analysis, openCV for computer vision tasks, shapely for geometric operations, geopandas for geospatial data processing, and computer vision libraries for object detection and identification. Explain the significance of each in the context of drone imagery analysis.
 
-2. **Hands-On Drone Data and Machine Learning Exercise (Remaining 2/3 of the Workshop)**
+2. **Hands-On Drone Data and Computer Vision Exercise (Remaining 2/3 of the Workshop)**
    - Transition into a more interactive session, where participants will follow along with pre-made Jupyter Notebooks hosted on Google Colab. This session is designed to be accessible and interesting for all skill levels, from beginners to experienced Python users. Here we will be focusing on tools we will use in the final hands-on exercise, counting trees and estimating carbon capture.
    - Introduction to reading geospatial data, extracting images, and composing a scene.
    - Dive deeper into geospatial analysis and computer vision packages, showcasing how to apply these tools to drone imagery.
